@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Socket on Portfolio</title>
+    <link>http://localhost:1313/tags/socket/</link>
+    <description>Recent content in Socket on Portfolio</description>
+    <generator>Hugo</generator>
+    <language>vi-vn</language>
+    <lastBuildDate>Wed, 01 Jan 2025 17:00:00 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/socket/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Java Networking: Xây Dựng Ứng Dụng Mạng</title>
+      <link>http://localhost:1313/posts/2022/java-networking/</link>
+      <pubDate>Wed, 01 Jan 2025 17:00:00 +0700</pubDate>
+      <guid>http://localhost:1313/posts/2022/java-networking/</guid>
+      <description>&lt;h2 id=&#34;1-giới-thiệu-về-java-networking&#34;&gt;1. Giới thiệu về Java Networking&lt;/h2&gt;&#xA;&lt;p&gt;Java Networking cung cấp các API mạnh mẽ để giao tiếp giữa các máy tính qua mạng. Các ứng dụng mạng thường dựa trên mô hình &lt;strong&gt;Client-Server&lt;/strong&gt;, nơi một máy chủ cung cấp dịch vụ và các máy khách kết nối để sử dụng dịch vụ đó.&lt;/p&gt;&#xA;&lt;h3 id=&#34;các-giao-thức-chính-trong-java-networking&#34;&gt;Các giao thức chính trong Java Networking:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;TCP (Transmission Control Protocol)&lt;/strong&gt;: Đảm bảo truyền dữ liệu đáng tin cậy.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;UDP (User Datagram Protocol)&lt;/strong&gt;: Truyền dữ liệu không đáng tin cậy nhưng nhanh.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;2-api-cơ-bản-trong-java-networking&#34;&gt;2. API cơ bản trong Java Networking&lt;/h2&gt;&#xA;&lt;h3 id=&#34;21-lớp-socket&#34;&gt;2.1 Lớp &lt;code&gt;Socket&lt;/code&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Được sử dụng để giao tiếp giữa Client và Server qua TCP.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

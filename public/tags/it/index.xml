@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IT on Portfolio</title>
+    <link>http://localhost:1313/tags/it/</link>
+    <description>Recent content in IT on Portfolio</description>
+    <generator>Hugo</generator>
+    <language>vi-vn</language>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/it/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Giới Thiệu Bản Thân: Hành Trình Của Một Sinh Viên IT</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/aboutme.jpg&#34;&#xA;    alt=&#34;About Me&#34; width=&#34;200px&#34; height=&#34;150px&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h1 id=&#34;giới-thiệu-bản-thân&#34;&gt;Giới Thiệu Bản Thân&lt;/h1&gt;&#xA;&lt;h2 id=&#34;xin-chào-&#34;&gt;Xin chào! 👋&lt;/h2&gt;&#xA;&lt;p&gt;Tôi là &lt;strong&gt;Trần Tấn Nguyên&lt;/strong&gt;, hiện đang là sinh viên ngành Công Nghệ Thông Tin tại Hutech University. Với niềm đam mê công nghệ và khao khát khám phá những điều mới mẻ, tôi đang từng bước xây dựng nền tảng cho sự nghiệp tương lai của mình trong lĩnh vực IT.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-hành-trình-đến-với-it&#34;&gt;1. Hành Trình Đến Với IT&lt;/h2&gt;&#xA;&lt;p&gt;Từ khi còn nhỏ, tôi đã có một niềm yêu thích đặc biệt với máy tính. Những giờ làm quen với các phần mềm đơn giản và tự mày mò cách khắc phục các vấn đề kỹ thuật đã khiến tôi quyết định theo đuổi ngành Công Nghệ Thông Tin.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Feature on Pehtheme</title>
+    <title>Feature on Portfolio</title>
     <link>http://localhost:1313/tags/feature/</link>
-    <description>Recent content in Feature on Pehtheme</description>
+    <description>Recent content in Feature on Portfolio</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>vi-vn</language>
     <lastBuildDate>Tue, 15 Aug 2023 13:45:49 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/feature/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Space Exploration&#39;s Next Frontier: The Race to Reach Mars</title>
-      <link>http://localhost:1313/posts/2023/space-explorations-next-frontier/</link>
+      <title>Kiến Thức Java Cơ Bản: Hành Trình Khám Phá Ngôn Ngữ Lập Trình</title>
+      <link>http://localhost:1313/posts/2023/https/trantannguyenblog.netlify.app/</link>
       <pubDate>Tue, 15 Aug 2023 13:45:49 +0700</pubDate>
-      <guid>http://localhost:1313/posts/2023/space-explorations-next-frontier/</guid>
-      <description>&lt;p&gt;The dream of reaching Mars has captured the imagination of scientists, engineers, and space enthusiasts for decades. In recent years, this dream has transformed into a tangible goal, with various space agencies and private companies embarking on missions to make it a reality. In this article, we delve into space exploration&amp;rsquo;s next frontier—the race to reach Mars.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-martian-challenge&#34;&gt;The Martian Challenge&lt;/h2&gt;&#xA;&lt;p&gt;Mars, often referred to as the &amp;ldquo;Red Planet,&amp;rdquo; has long been a subject of fascination. Its potential as a second home for humanity and its scientific allure have driven the ambition to land on its surface. The challenges posed by Mars, including its harsh environment and vast distances, make it a formidable target.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Exoplanets: Hunting for Earth&#39;s Cosmic Cousins</title>
-      <link>http://localhost:1313/posts/2022/exoplanets-hunting/</link>
-      <pubDate>Thu, 27 Jul 2023 13:03:07 +0700</pubDate>
-      <guid>http://localhost:1313/posts/2022/exoplanets-hunting/</guid>
-      <description>&lt;p&gt;In the vast tapestry of the cosmos, one of the most intriguing quests of modern astronomy is the search for exoplanets, distant celestial bodies that might bear a resemblance to our own Earth. This endeavor is driven by the tantalizing question: Could there be other habitable worlds out there? In this article, we embark on a journey to explore the captivating hunt for Earth&amp;rsquo;s cosmic cousins.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-exoplanet-revolution&#34;&gt;The Exoplanet Revolution&lt;/h2&gt;&#xA;&lt;p&gt;Keyword: Exoplanet Revolution&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/2023/https/trantannguyenblog.netlify.app/</guid>
+      <description>&lt;p&gt;Java là một trong những ngôn ngữ lập trình phổ biến nhất trên thế giới. Với khả năng mạnh mẽ và đa năng, Java đã trở thành lựa chọn hàng đầu cho các nhà phát triển phần mềm. Trong bài viết này, chúng ta sẽ khám phá những kiến thức cơ bản và hành trình học Java.&lt;/p&gt;&#xA;&lt;h2 id=&#34;thách-thức-trong-việc-học-java&#34;&gt;Thách Thức Trong Việc Học Java&lt;/h2&gt;&#xA;&lt;p&gt;Java, được phát triển lần đầu tiên bởi Sun Microsystems vào năm 1995, là ngôn ngữ lập trình hướng đối tượng (OOP). Để thành thạo Java, bạn cần hiểu rõ các khái niệm cơ bản và cấu trúc của nó. Một số thách thức phổ biến khi học Java bao gồm:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

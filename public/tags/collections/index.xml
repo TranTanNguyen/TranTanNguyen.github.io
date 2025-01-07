@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Collections on Portfolio</title>
+    <link>http://localhost:1313/tags/collections/</link>
+    <description>Recent content in Collections on Portfolio</description>
+    <generator>Hugo</generator>
+    <language>vi-vn</language>
+    <lastBuildDate>Sun, 22 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/collections/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Java Collections Framework: Quản Lý Dữ Liệu Hiệu Quả</title>
+      <link>http://localhost:1313/posts/2022/java-collections-framework/</link>
+      <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2022/java-collections-framework/</guid>
+      <description>&lt;h2 id=&#34;1-giới-thiệu-về-java-collections-framework&#34;&gt;1. Giới thiệu về Java Collections Framework&lt;/h2&gt;&#xA;&lt;p&gt;Java Collections Framework (JCF) là một tập hợp các lớp và giao diện trong Java được thiết kế để lưu trữ, thao tác và quản lý dữ liệu một cách hiệu quả. Framework này cung cấp các cấu trúc dữ liệu linh hoạt và thuật toán mạnh mẽ, giúp việc xử lý dữ liệu trở nên dễ dàng hơn.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;2-tại-sao-sử-dụng-java-collections-framework&#34;&gt;2. Tại sao sử dụng Java Collections Framework?&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Đơn giản hóa xử lý dữ liệu&lt;/strong&gt;: Các lớp trong Collections Framework cung cấp sẵn các phương thức xử lý dữ liệu như tìm kiếm, sắp xếp, duyệt, và xóa.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tính linh hoạt&lt;/strong&gt;: Hỗ trợ nhiều kiểu cấu trúc dữ liệu như danh sách (List), tập hợp (Set), bảng băm (Map).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tối ưu hiệu suất&lt;/strong&gt;: Được thiết kế để quản lý bộ nhớ và tốc độ xử lý hiệu quả.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;3-các-giao-diện-chính-trong-java-collections-framework&#34;&gt;3. Các giao diện chính trong Java Collections Framework&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Giao diện&lt;/th&gt;&#xA;          &lt;th&gt;Mô tả&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Collection&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;Giao diện gốc cho các cấu trúc dữ liệu như List, Set, Queue.&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;List&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;Lưu trữ các phần tử có thứ tự, cho phép phần tử trùng lặp.&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Set&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;Lưu trữ các phần tử không trùng lặp.&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Map&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;Lưu trữ dữ liệu theo cặp khóa và giá trị.&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;4-một-số-lớp-phổ-biến&#34;&gt;4. Một số lớp phổ biến&lt;/h2&gt;&#xA;&lt;h3 id=&#34;41-arraylist-thuộc-list&#34;&gt;4.1 &lt;code&gt;ArrayList&lt;/code&gt; (Thuộc &lt;code&gt;List&lt;/code&gt;)&lt;/h3&gt;&#xA;&lt;p&gt;Lưu trữ các phần tử theo thứ tự, hỗ trợ truy cập nhanh thông qua chỉ số.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

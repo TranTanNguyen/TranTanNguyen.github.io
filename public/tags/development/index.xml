@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development on Portfolio</title>
+    <link>http://localhost:1313/tags/development/</link>
+    <description>Recent content in Development on Portfolio</description>
+    <generator>Hugo</generator>
+    <language>vi-vn</language>
+    <lastBuildDate>Wed, 25 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lập Trình Đa Luồng Trong Java: Hướng Dẫn và Ví Dụ</title>
+      <link>http://localhost:1313/posts/2022/lap-trinh-da-luong/</link>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2022/lap-trinh-da-luong/</guid>
+      <description>&lt;h2 id=&#34;1-lập-trình-đa-luồng-là-gì&#34;&gt;1. Lập trình đa luồng là gì?&lt;/h2&gt;&#xA;&lt;p&gt;Lập trình đa luồng (Multithreading) là kỹ thuật thực thi nhiều luồng (threads) trong một tiến trình (process). Điều này cho phép chương trình thực hiện đồng thời nhiều tác vụ, cải thiện hiệu suất và tận dụng tối đa tài nguyên hệ thống.&lt;/p&gt;&#xA;&lt;h3 id=&#34;các-khái-niệm-cơ-bản&#34;&gt;Các khái niệm cơ bản:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Thread&lt;/strong&gt;: Một đơn vị thực thi nhỏ nhất trong tiến trình.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Main Thread&lt;/strong&gt;: Luồng chính trong một ứng dụng Java.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Concurrency&lt;/strong&gt;: Thực thi đồng thời nhiều luồng.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Synchronization&lt;/strong&gt;: Đồng bộ hóa các luồng để tránh xung đột dữ liệu.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;2-tạo-và-chạy-luồng-trong-java&#34;&gt;2. Tạo và chạy luồng trong Java&lt;/h2&gt;&#xA;&lt;h3 id=&#34;21-sử-dụng-lớp-thread&#34;&gt;2.1 Sử dụng lớp &lt;code&gt;Thread&lt;/code&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Kế thừa lớp &lt;code&gt;Thread&lt;/code&gt; và override phương thức &lt;code&gt;run()&lt;/code&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Xử Lý Ngoại Lệ Trong Java: Khái Niệm và Ứng Dụng</title>
+      <link>http://localhost:1313/posts/2022/xu-ly-ngoai-le/</link>
+      <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2022/xu-ly-ngoai-le/</guid>
+      <description>&lt;h2 id=&#34;1-ngoại-lệ-là-gì&#34;&gt;1. Ngoại lệ là gì?&lt;/h2&gt;&#xA;&lt;p&gt;Ngoại lệ (Exception) là các tình huống không mong muốn hoặc lỗi xảy ra trong thời gian chạy (runtime), làm gián đoạn luồng thực thi bình thường của chương trình. Trong Java, ngoại lệ được đại diện bởi các đối tượng thuộc lớp &lt;code&gt;Throwable&lt;/code&gt;.&lt;/p&gt;&#xA;&lt;h3 id=&#34;phân-loại-ngoại-lệ&#34;&gt;Phân loại ngoại lệ:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Checked Exceptions&lt;/strong&gt;: Các ngoại lệ được kiểm tra tại thời gian biên dịch, ví dụ: &lt;code&gt;IOException&lt;/code&gt;, &lt;code&gt;SQLException&lt;/code&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Unchecked Exceptions&lt;/strong&gt;: Các ngoại lệ xảy ra tại thời gian chạy, ví dụ: &lt;code&gt;NullPointerException&lt;/code&gt;, &lt;code&gt;ArithmeticException&lt;/code&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Errors&lt;/strong&gt;: Các lỗi nghiêm trọng mà chương trình không thể xử lý được, ví dụ: &lt;code&gt;OutOfMemoryError&lt;/code&gt;, &lt;code&gt;StackOverflowError&lt;/code&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;2-cách-xử-lý-ngoại-lệ-trong-java&#34;&gt;2. Cách xử lý ngoại lệ trong Java&lt;/h2&gt;&#xA;&lt;p&gt;Java cung cấp các khối lệnh để xử lý ngoại lệ: &lt;code&gt;try&lt;/code&gt;, &lt;code&gt;catch&lt;/code&gt;, &lt;code&gt;finally&lt;/code&gt;, và &lt;code&gt;throw&lt;/code&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Closure trong JavaScript: Khái niệm và Ứng dụng</title>
+      <link>http://localhost:1313/posts/2023/closure/</link>
+      <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2023/closure/</guid>
+      <description>&lt;h1 id=&#34;closure-trong-javascript-khái-niệm-và-ứng-dụng&#34;&gt;Closure trong JavaScript: Khái niệm và Ứng dụng&lt;/h1&gt;&#xA;&lt;h2 id=&#34;1-closure-là-gì&#34;&gt;1. Closure là gì?&lt;/h2&gt;&#xA;&lt;p&gt;Closure là một tính năng đặc biệt của JavaScript, cho phép một hàm &amp;ldquo;nhớ&amp;rdquo; và truy cập được phạm vi từ biến bên ngoài ngay cả khi hàm đó đã được thực thi xong. Đây là một trong những khái niệm cốt lõi giúp JavaScript trở nên linh hoạt và mạnh mẽ.&lt;/p&gt;&#xA;&lt;p&gt;Cụ thể, closure xảy ra khi một hàm con (inner function) được khai báo bên trong một hàm cha (outer function) và tiếp tục sử dụng các biến từ phạm vi của hàm cha, ngay cả sau khi hàm cha đã kết thúc.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kiến Thức Java Cơ Bản: Hành Trình Khám Phá Ngôn Ngữ Lập Trình</title>
+      <link>http://localhost:1313/posts/2023/https/trantannguyenblog.netlify.app/</link>
+      <pubDate>Tue, 15 Aug 2023 13:45:49 +0700</pubDate>
+      <guid>http://localhost:1313/posts/2023/https/trantannguyenblog.netlify.app/</guid>
+      <description>&lt;p&gt;Java là một trong những ngôn ngữ lập trình phổ biến nhất trên thế giới. Với khả năng mạnh mẽ và đa năng, Java đã trở thành lựa chọn hàng đầu cho các nhà phát triển phần mềm. Trong bài viết này, chúng ta sẽ khám phá những kiến thức cơ bản và hành trình học Java.&lt;/p&gt;&#xA;&lt;h2 id=&#34;thách-thức-trong-việc-học-java&#34;&gt;Thách Thức Trong Việc Học Java&lt;/h2&gt;&#xA;&lt;p&gt;Java, được phát triển lần đầu tiên bởi Sun Microsystems vào năm 1995, là ngôn ngữ lập trình hướng đối tượng (OOP). Để thành thạo Java, bạn cần hiểu rõ các khái niệm cơ bản và cấu trúc của nó. Một số thách thức phổ biến khi học Java bao gồm:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Closure on Portfolio</title>
+    <link>http://localhost:1313/tags/closure/</link>
+    <description>Recent content in Closure on Portfolio</description>
+    <generator>Hugo</generator>
+    <language>vi-vn</language>
+    <lastBuildDate>Sat, 21 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/closure/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Closure trong JavaScript: Khái niệm và Ứng dụng</title>
+      <link>http://localhost:1313/posts/2023/closure/</link>
+      <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2023/closure/</guid>
+      <description>&lt;h1 id=&#34;closure-trong-javascript-khái-niệm-và-ứng-dụng&#34;&gt;Closure trong JavaScript: Khái niệm và Ứng dụng&lt;/h1&gt;&#xA;&lt;h2 id=&#34;1-closure-là-gì&#34;&gt;1. Closure là gì?&lt;/h2&gt;&#xA;&lt;p&gt;Closure là một tính năng đặc biệt của JavaScript, cho phép một hàm &amp;ldquo;nhớ&amp;rdquo; và truy cập được phạm vi từ biến bên ngoài ngay cả khi hàm đó đã được thực thi xong. Đây là một trong những khái niệm cốt lõi giúp JavaScript trở nên linh hoạt và mạnh mẽ.&lt;/p&gt;&#xA;&lt;p&gt;Cụ thể, closure xảy ra khi một hàm con (inner function) được khai báo bên trong một hàm cha (outer function) và tiếp tục sử dụng các biến từ phạm vi của hàm cha, ngay cả sau khi hàm cha đã kết thúc.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

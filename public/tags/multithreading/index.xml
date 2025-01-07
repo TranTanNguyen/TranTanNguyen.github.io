@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multithreading on Portfolio</title>
+    <link>http://localhost:1313/tags/multithreading/</link>
+    <description>Recent content in Multithreading on Portfolio</description>
+    <generator>Hugo</generator>
+    <language>vi-vn</language>
+    <lastBuildDate>Wed, 25 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/multithreading/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lập Trình Đa Luồng Trong Java: Hướng Dẫn và Ví Dụ</title>
+      <link>http://localhost:1313/posts/2022/lap-trinh-da-luong/</link>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2022/lap-trinh-da-luong/</guid>
+      <description>&lt;h2 id=&#34;1-lập-trình-đa-luồng-là-gì&#34;&gt;1. Lập trình đa luồng là gì?&lt;/h2&gt;&#xA;&lt;p&gt;Lập trình đa luồng (Multithreading) là kỹ thuật thực thi nhiều luồng (threads) trong một tiến trình (process). Điều này cho phép chương trình thực hiện đồng thời nhiều tác vụ, cải thiện hiệu suất và tận dụng tối đa tài nguyên hệ thống.&lt;/p&gt;&#xA;&lt;h3 id=&#34;các-khái-niệm-cơ-bản&#34;&gt;Các khái niệm cơ bản:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Thread&lt;/strong&gt;: Một đơn vị thực thi nhỏ nhất trong tiến trình.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Main Thread&lt;/strong&gt;: Luồng chính trong một ứng dụng Java.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Concurrency&lt;/strong&gt;: Thực thi đồng thời nhiều luồng.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Synchronization&lt;/strong&gt;: Đồng bộ hóa các luồng để tránh xung đột dữ liệu.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;2-tạo-và-chạy-luồng-trong-java&#34;&gt;2. Tạo và chạy luồng trong Java&lt;/h2&gt;&#xA;&lt;h3 id=&#34;21-sử-dụng-lớp-thread&#34;&gt;2.1 Sử dụng lớp &lt;code&gt;Thread&lt;/code&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Kế thừa lớp &lt;code&gt;Thread&lt;/code&gt; và override phương thức &lt;code&gt;run()&lt;/code&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

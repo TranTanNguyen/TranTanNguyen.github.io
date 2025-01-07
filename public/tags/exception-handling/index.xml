@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exception-Handling on Portfolio</title>
+    <link>http://localhost:1313/tags/exception-handling/</link>
+    <description>Recent content in Exception-Handling on Portfolio</description>
+    <generator>Hugo</generator>
+    <language>vi-vn</language>
+    <lastBuildDate>Mon, 23 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/exception-handling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Xử Lý Ngoại Lệ Trong Java: Khái Niệm và Ứng Dụng</title>
+      <link>http://localhost:1313/posts/2022/xu-ly-ngoai-le/</link>
+      <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2022/xu-ly-ngoai-le/</guid>
+      <description>&lt;h2 id=&#34;1-ngoại-lệ-là-gì&#34;&gt;1. Ngoại lệ là gì?&lt;/h2&gt;&#xA;&lt;p&gt;Ngoại lệ (Exception) là các tình huống không mong muốn hoặc lỗi xảy ra trong thời gian chạy (runtime), làm gián đoạn luồng thực thi bình thường của chương trình. Trong Java, ngoại lệ được đại diện bởi các đối tượng thuộc lớp &lt;code&gt;Throwable&lt;/code&gt;.&lt;/p&gt;&#xA;&lt;h3 id=&#34;phân-loại-ngoại-lệ&#34;&gt;Phân loại ngoại lệ:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Checked Exceptions&lt;/strong&gt;: Các ngoại lệ được kiểm tra tại thời gian biên dịch, ví dụ: &lt;code&gt;IOException&lt;/code&gt;, &lt;code&gt;SQLException&lt;/code&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Unchecked Exceptions&lt;/strong&gt;: Các ngoại lệ xảy ra tại thời gian chạy, ví dụ: &lt;code&gt;NullPointerException&lt;/code&gt;, &lt;code&gt;ArithmeticException&lt;/code&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Errors&lt;/strong&gt;: Các lỗi nghiêm trọng mà chương trình không thể xử lý được, ví dụ: &lt;code&gt;OutOfMemoryError&lt;/code&gt;, &lt;code&gt;StackOverflowError&lt;/code&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;2-cách-xử-lý-ngoại-lệ-trong-java&#34;&gt;2. Cách xử lý ngoại lệ trong Java&lt;/h2&gt;&#xA;&lt;p&gt;Java cung cấp các khối lệnh để xử lý ngoại lệ: &lt;code&gt;try&lt;/code&gt;, &lt;code&gt;catch&lt;/code&gt;, &lt;code&gt;finally&lt;/code&gt;, và &lt;code&gt;throw&lt;/code&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

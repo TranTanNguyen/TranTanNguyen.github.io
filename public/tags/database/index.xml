@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Database on Portfolio</title>
+    <link>http://localhost:1313/tags/database/</link>
+    <description>Recent content in Database on Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Aug 2023 13:45:49 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/database/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Java và Cơ Sở Dữ Liệu: Xây Dựng Ứng Dụng Quản Lý Đơn Giản</title>
+      <link>http://localhost:1313/posts/2023/java-database-integration/</link>
+      <pubDate>Fri, 25 Aug 2023 13:45:49 +0700</pubDate>
+      <guid>http://localhost:1313/posts/2023/java-database-integration/</guid>
+      <description>&lt;p&gt;Java là một ngôn ngữ lập trình mạnh mẽ và đa năng, đặc biệt hữu ích trong việc phát triển các ứng dụng liên quan đến cơ sở dữ liệu. Trong bài viết này, chúng ta sẽ tìm hiểu cách Java kết nối và thao tác với cơ sở dữ liệu để xây dựng một ứng dụng quản lý đơn giản.&lt;/p&gt;&#xA;&lt;h2 id=&#34;tầm-quan-trọng-của-cơ-sở-dữ-liệu-trong-java&#34;&gt;Tầm Quan Trọng Của Cơ Sở Dữ Liệu Trong Java&lt;/h2&gt;&#xA;&lt;p&gt;Cơ sở dữ liệu là một thành phần không thể thiếu trong hầu hết các ứng dụng phần mềm. Việc tích hợp cơ sở dữ liệu vào ứng dụng Java cho phép lưu trữ, truy xuất và quản lý dữ liệu một cách hiệu quả. Các khía cạnh quan trọng bao gồm:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

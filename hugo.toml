@@ -1,6 +1,6 @@
-baseURL = 'https://pehtheme-hugo.netlify.app/'
-languageCode = 'en-us'
-title = 'Pehtheme'
+baseURL = 'https://trantannguyenblog.netlify.app/'
+languageCode = 'vi-vn'
+title = 'Portfolio'
 theme = 'pehtheme-hugo'
 
 [pagination]
@@ -22,21 +22,13 @@ disqusShortname = 'your-disqus-shortname' # <- Get form here : https://disqus.co
 
 [menu]
 	[[menu.main]]
-		name = 'Home'
+		name = 'Trang chủ'
 		pageRef = '/'
 		weight = 10
 	[[menu.main]]
-		name = 'About'
+		name = 'Giới thiệu'
 		pageRef = '/about'
 		weight = 15
-	[[menu.main]]
-		name = 'Tags'
-		pageRef = '/tags'
-		weight = 20
-	[[menu.main]]
-		name = 'Taxonomy'
-		pageRef = '/tags/space/'
-		weight = 25
 
 [module]
   [module.hugoVersion]

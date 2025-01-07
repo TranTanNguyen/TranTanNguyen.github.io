@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Demo on Portfolio</title>
+    <link>http://localhost:1313/tags/demo/</link>
+    <description>Recent content in Demo on Portfolio</description>
+    <generator>Hugo</generator>
+    <language>vi-vn</language>
+    <lastBuildDate>Tue, 31 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/demo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Giới thiệu về JavaScript</title>
+      <link>http://localhost:1313/posts/2023/gioi-thieu-javacript/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2023/gioi-thieu-javacript/</guid>
+      <description>&lt;p&gt;JavaScript là một trong những ngôn ngữ lập trình phổ biến nhất hiện nay và không thể thiếu trong phát triển web hiện đại. Cùng khám phá những điều cơ bản về JavaScript và lý do tại sao bạn nên học nó.&lt;/p&gt;&#xA;&lt;h2 id=&#34;javascript-là-gì&#34;&gt;JavaScript là gì?&lt;/h2&gt;&#xA;&lt;p&gt;JavaScript (JS) là một ngôn ngữ lập trình phía client, chủ yếu được sử dụng để xây dựng các ứng dụng web động. Ra đời vào năm 1995 bởi Brendan Eich, JavaScript đã phát triển mạnh mẽ và trở thành ngôn ngữ lập trình chính cho việc phát triển web.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Xử lý bất đồng bộ trong Javacript - Phần 1</title>
+      <link>http://localhost:1313/posts/2023/xu-ly-bat-dong-bo-javacript1/</link>
+      <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2023/xu-ly-bat-dong-bo-javacript1/</guid>
+      <description>&lt;h1 id=&#34;xử-lý-bất-đồng-bộ-trong-javascript---phần-1&#34;&gt;Xử Lý Bất Đồng Bộ Trong JavaScript - Phần 1&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Chắc chắn khi lập trình, bạn sẽ có các công việc cần thời gian delay (gọi API, lấy dữ liệu từ Database, đọc/ghi file,&amp;hellip;). Và đây chính là lúc xử lý bất đồng bộ lên ngôi, hãy cùng mình tìm hiểu về bất đồng bộ trong Javascript và chúng giúp code dễ dàng hơn thế nào nhé.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Trong phần đầu tiên này, chúng ta sẽ cùng tìm hiểu và khái niệm cũng như một số phương án xử lý hay dùng.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Xử lý bất đồng bộ trong Javacript - Phần 2</title>
+      <link>http://localhost:1313/posts/2023/xu-ly-bat-dong-bo2/</link>
+      <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2023/xu-ly-bat-dong-bo2/</guid>
+      <description>&lt;h1 id=&#34;xử-lý-bất-đồng-bộ-trong-javascript---phần-2&#34;&gt;Xử lý bất đồng bộ trong Javascript - Phần 2&lt;/h1&gt;&#xA;&lt;h2 id=&#34;33-asyncawait-es7&#34;&gt;3.3 Async/await (ES7)&lt;/h2&gt;&#xA;&lt;p&gt;Async/await là cơ chế giúp bạn thực thi các thao tác bất đồng bộ một cách tuần tự hơn, giúp đoạn code nhìn qua tưởng như đồng bộ nhưng thực ra lại là chạy bất đồng bộ, làm cho việc đọc và viết mã trở nên dễ hiểu hơn.&lt;/p&gt;&#xA;&lt;h3 id=&#34;331-async&#34;&gt;3.3.1 Async&lt;/h3&gt;&#xA;&lt;p&gt;Để định nghĩa một hàm bất đồng bộ với &lt;code&gt;async&lt;/code&gt;, ta cần khai báo từ khóa &lt;code&gt;async&lt;/code&gt; ngay trước từ khóa định nghĩa hàm.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lập Trình on Portfolio</title>
+    <link>http://localhost:1313/tags/l%E1%BA%ADp-tr%C3%ACnh/</link>
+    <description>Recent content in Lập Trình on Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/l%E1%BA%ADp-tr%C3%ACnh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Khám phá Array trong JavaScript</title>
+      <link>http://localhost:1313/posts/array/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/array/</guid>
+      <description>&lt;p&gt;Array (mảng) là một trong những cấu trúc dữ liệu quan trọng nhất trong JavaScript. Với khả năng lưu trữ và quản lý dữ liệu linh hoạt, array giúp lập trình viên giải quyết nhiều bài toán hiệu quả hơn. Hãy cùng tìm hiểu cách sử dụng array trong JavaScript!&lt;/p&gt;&#xA;&lt;h2 id=&#34;array-là-gì&#34;&gt;Array là gì?&lt;/h2&gt;&#xA;&lt;p&gt;Array là một kiểu dữ liệu đặc biệt trong JavaScript, cho phép lưu trữ nhiều giá trị trong một biến duy nhất. Các giá trị này có thể thuộc bất kỳ kiểu dữ liệu nào, bao gồm số, chuỗi, hoặc thậm chí là một object hoặc một mảng khác (nested array).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

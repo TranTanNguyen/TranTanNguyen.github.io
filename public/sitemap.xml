@@ -2,91 +2,109 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/about/</loc>
-    <lastmod>2023-10-06T20:37:29+07:00</lastmod>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-01-01T17:00:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/java/</loc>
+    <lastmod>2025-01-01T17:00:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2022/java-networking/</loc>
+    <lastmod>2025-01-01T17:00:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/networking/</loc>
+    <lastmod>2025-01-01T17:00:00+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2023-10-06T20:37:29+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/astronomy/</loc>
-    <lastmod>2023-10-04T22:11:36+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/black-hole/</loc>
-    <lastmod>2023-10-04T22:11:36+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2023-10-04T22:11:36+07:00</lastmod>
+    <lastmod>2025-01-01T17:00:00+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2023-10-04T22:11:36+07:00</lastmod>
+    <lastmod>2025-01-01T17:00:00+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/relativity/</loc>
-    <lastmod>2023-10-04T22:11:36+07:00</lastmod>
+    <loc>http://localhost:1313/tags/programming/</loc>
+    <lastmod>2025-01-01T17:00:00+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/space/</loc>
-    <lastmod>2023-10-04T22:11:36+07:00</lastmod>
+    <loc>http://localhost:1313/categories/programming/</loc>
+    <lastmod>2025-01-01T17:00:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/socket/</loc>
+    <lastmod>2025-01-01T17:00:00+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2023-10-04T22:11:36+07:00</lastmod>
+    <lastmod>2025-01-01T17:00:00+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2023/unveiling-the-secrets-of-black-holes/</loc>
-    <lastmod>2023-10-04T22:11:36+07:00</lastmod>
+    <loc>http://localhost:1313/tags/array/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/cosmic/</loc>
-    <lastmod>2023-09-24T11:15:17+07:00</lastmod>
+    <loc>http://localhost:1313/tags/data-structure/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2023/galactic-marvels/</loc>
-    <lastmod>2023-09-24T11:15:17+07:00</lastmod>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/nebula/</loc>
-    <lastmod>2023-09-24T11:15:17+07:00</lastmod>
+    <loc>http://localhost:1313/tags/introduction/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/space/</loc>
-    <lastmod>2023-09-24T11:15:17+07:00</lastmod>
+    <loc>http://localhost:1313/tags/it/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2023/stellar-spectacles/</loc>
-    <lastmod>2023-09-23T22:45:37+07:00</lastmod>
+    <loc>http://localhost:1313/categories/personal/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/supernova/</loc>
-    <lastmod>2023-09-23T22:45:37+07:00</lastmod>
+    <loc>http://localhost:1313/tags/student/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/exploration/</loc>
-    <lastmod>2023-08-15T13:45:49+07:00</lastmod>
+    <loc>http://localhost:1313/posts/array/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/demo/</loc>
+    <lastmod>2024-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2023/gioi-thieu-javacript/</loc>
+    <lastmod>2024-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/shortcode/</loc>
+    <lastmod>2024-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/development/</loc>
+    <lastmod>2024-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2022/lap-trinh-da-luong/</loc>
+    <lastmod>2024-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/multithreading/</loc>
+    <lastmod>2024-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/exception-handling/</loc>
+    <lastmod>2024-12-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2022/xu-ly-ngoai-le/</loc>
+    <lastmod>2024-12-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/collections/</loc>
+    <lastmod>2024-12-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2022/java-collections-framework/</loc>
+    <lastmod>2024-12-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/closure/</loc>
+    <lastmod>2024-12-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2023/closure/</loc>
+    <lastmod>2024-12-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/javascript/</loc>
+    <lastmod>2024-12-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2023/xu-ly-bat-dong-bo-javacript1/</loc>
+    <lastmod>2024-12-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2023/xu-ly-bat-dong-bo2/</loc>
+    <lastmod>2024-12-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/feature/</loc>
     <lastmod>2023-08-15T13:45:49+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mars/</loc>
+    <loc>http://localhost:1313/posts/2023/https/trantannguyenblog.netlify.app/</loc>
     <lastmod>2023-08-15T13:45:49+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/2023/space-explorations-next-frontier/</loc>
-    <lastmod>2023-08-15T13:45:49+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/cosmos/</loc>
-    <lastmod>2023-08-12T14:15:05+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/2023/the-great-beyond/</loc>
-    <lastmod>2023-08-12T14:15:05+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/2022/cosmic-time-travel/</loc>
-    <lastmod>2023-08-07T09:30:32+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/telescopes/</loc>
-    <lastmod>2023-08-07T09:30:32+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/astronomy/</loc>
-    <lastmod>2023-07-30T09:30:32+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/telescope/</loc>
-    <lastmod>2023-07-30T09:30:32+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/2022/the-hubble-space-telescope/</loc>
-    <lastmod>2023-07-30T09:30:32+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/exoplanets/</loc>
-    <lastmod>2023-07-27T13:03:07+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/2022/exoplanets-hunting/</loc>
-    <lastmod>2023-07-27T13:03:07+07:00</lastmod>
   </url>
 </urlset>
